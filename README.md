@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 118 | 22 |
+| 121 | 22 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [binary search](#binary-search) (7)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (25)
+- [brute force](#brute-force) (26)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (6)
@@ -25,13 +25,13 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (6)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (48)
-- [implementation](#implementation) (29)
-- [math](#math) (68)
-- [number theory](#number-theory) (17)
+- [greedy](#greedy) (49)
+- [implementation](#implementation) (30)
+- [math](#math) (69)
+- [number theory](#number-theory) (18)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (15)
-- [strings](#strings) (7)
+- [sortings](#sortings) (16)
+- [strings](#strings) (8)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (6)
 
@@ -64,6 +64,7 @@
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
+| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
@@ -227,6 +228,7 @@
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 | 2188B | [Seats](https://codeforces.com/contest/2188/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2188/B%20-%20Seats/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
+| 2204B | [Right Maximum](https://codeforces.com/contest/2204/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2204/B%20-%20Right%20Maximum/solution.cpp) |
 | 2209A | [Flip Flops](https://codeforces.com/contest/2209/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2209/A%20-%20Flip%20Flops/solution.cpp) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2225/B%20-%20Alternating%20String/solution.cpp) |
 | 2229B | [Absolute Cinema](https://codeforces.com/contest/2229/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2229/B%20-%20Absolute%20Cinema/solution.cpp) |
@@ -250,6 +252,7 @@
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
+| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
@@ -285,6 +288,7 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
@@ -356,6 +360,7 @@
 |---|---------|------------|----------|
 | 1411B | [Fair Numbers](https://codeforces.com/contest/1411/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1411/B%20-%20Fair%20Numbers/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1765M | [Minimum LCM](https://codeforces.com/contest/1765/problem/M) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1765/M%20-%20Minimum%20LCM/solution.cpp) |
 | 1826B | [Lunatic Never Content](https://codeforces.com/contest/1826/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1826/B%20-%20Lunatic%20Never%20Content/solution.cpp) |
@@ -397,6 +402,7 @@
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 
 ### strings
 
@@ -409,6 +415,7 @@
 | 1913B | [Swap and Delete](https://codeforces.com/contest/1913/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1913/B%20-%20Swap%20and%20Delete/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
+| 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
 
 ### trees
 
