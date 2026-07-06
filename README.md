@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 13 |
+| 16 | 14 |
 
 ---
 
@@ -15,12 +15,13 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (2)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (2)
-- [math](#math) (8)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (3)
+- [math](#math) (9)
 - [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (2)
@@ -50,6 +51,12 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -77,6 +84,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
 ### implementation
 
@@ -84,6 +92,7 @@
 |---|---------|------------|----------|
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
 ### math
 
@@ -97,6 +106,7 @@
 | 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.cpp) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.cpp) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
+| 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
 ### number theory
 
