@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 123 | 22 |
+| 124 | 23 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (26)
 - [combinatorics](#combinatorics) (4)
 - [constructive algorithms](#constructive-algorithms) (20)
-- [data structures](#data-structures) (6)
+- [data structures](#data-structures) (7)
 - [dfs and similar](#dfs-and-similar) (4)
 - [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (9)
@@ -26,8 +26,9 @@
 - [games](#games) (8)
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (49)
+- [hashing](#hashing) (1)
 - [implementation](#implementation) (31)
-- [math](#math) (69)
+- [math](#math) (70)
 - [number theory](#number-theory) (18)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (16)
@@ -126,6 +127,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
+| 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
@@ -248,6 +250,12 @@
 | 2241F | [A Bit Odd](https://codeforces.com/contest/2241/problem/F) | Unrated | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2241/F%20-%20A%20Bit%20Odd/solution.cpp) |
 | 2242B | [Predominant Frequency Division](https://codeforces.com/contest/2242/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2242/B%20-%20Predominant%20Frequency%20Division/solution.cpp) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
@@ -292,6 +300,7 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
 | 1418A | [Buying Torches](https://codeforces.com/contest/1418/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1418/A%20-%20Buying%20Torches/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
+| 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
