@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 161 | 24 |
+| 162 | 24 |
 
 ---
 
@@ -28,7 +28,7 @@
 - [geometry](#geometry) (3)
 - [greedy](#greedy) (58)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (45)
+- [implementation](#implementation) (46)
 - [math](#math) (84)
 - [number theory](#number-theory) (22)
 - [schedules](#schedules) (1)
@@ -306,6 +306,7 @@
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
+| 474A | [Keyboard](https://codeforces.com/contest/474/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/474/A%20-%20Keyboard/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
