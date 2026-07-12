@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 167 | 24 |
+| 168 | 24 |
 
 ---
 
@@ -33,7 +33,7 @@
 - [number theory](#number-theory) (22)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (23)
-- [strings](#strings) (14)
+- [strings](#strings) (15)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (7)
 
@@ -505,6 +505,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 43A | [Football](https://codeforces.com/contest/43/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/43/A%20-%20Football/solution.cpp) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.cpp) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
