@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 170 | 24 |
+| 171 | 24 |
 
 ---
 
@@ -26,13 +26,13 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (8)
 - [geometry](#geometry) (3)
-- [greedy](#greedy) (59)
+- [greedy](#greedy) (60)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (49)
 - [math](#math) (85)
 - [number theory](#number-theory) (22)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (23)
+- [sortings](#sortings) (24)
 - [strings](#strings) (15)
 - [trees](#trees) (2)
 - [two pointers](#two-pointers) (7)
@@ -271,6 +271,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+| 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 | 2188B | [Seats](https://codeforces.com/contest/2188/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2188/B%20-%20Seats/solution.cpp) |
 | 2195C | [Dice Roll Sequence](https://codeforces.com/contest/2195/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2195/C%20-%20Dice%20Roll%20Sequence/solution.cpp) |
@@ -498,6 +499,7 @@
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
