@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 172 | 24 |
+| 173 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (33)
@@ -44,6 +45,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ### binary search
 
