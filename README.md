@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 185 | 26 |
+| 186 | 26 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (4)
 - [brute force](#brute-force) (34)
@@ -58,6 +58,7 @@
 | 2245A | [Who Watches the Watchpig?](https://codeforces.com/contest/2245/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2245/A%20-%20Who%20Watches%20the%20Watchpig%3F/solution.cpp) |
 | 2245B | [Delete and Concatenate](https://codeforces.com/contest/2245/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2245/B%20-%20Delete%20and%20Concatenate/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+| 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 
 ### binary search
 
