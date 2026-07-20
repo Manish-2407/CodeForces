@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 190 | 26 |
+| 191 | 26 |
 
 ---
 
@@ -31,7 +31,7 @@
 - [greedy](#greedy) (64)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (55)
-- [math](#math) (86)
+- [math](#math) (87)
 - [number theory](#number-theory) (23)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (26)
@@ -453,6 +453,7 @@
 | 1900B | [Laura and Operations](https://codeforces.com/contest/1900/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1900/B%20-%20Laura%20and%20Operations/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+| 2171B | [Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2171/B%20-%20Yuu%20Koito%20and%20Minimum%20Absolute%20Sum/solution.cpp) |
 | 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.cpp) |
 | 2184B | [Hourglass](https://codeforces.com/contest/2184/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2184/B%20-%20Hourglass/solution.cpp) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
