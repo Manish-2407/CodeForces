@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 199 | 26 |
+| 200 | 26 |
 
 ---
 
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (68)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (58)
+- [implementation](#implementation) (59)
 - [math](#math) (93)
 - [number theory](#number-theory) (24)
 - [schedules](#schedules) (1)
@@ -358,6 +358,7 @@
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.cpp) |
 | 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 450A | [Jzzhu and Children](https://codeforces.com/contest/450/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/450/A%20-%20Jzzhu%20and%20Children/solution.cpp) |
 | 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.cpp) |
 | 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.cpp) |
