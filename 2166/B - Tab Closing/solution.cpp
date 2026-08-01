@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main(){
+    int t;
+    cin>>t;
+    while(t--){
+        long long a,b,n;
+        cin>>a>>b>>n;
+        cout<<(a==b || n<=a/b ? 1:2)<<endl;
+    }
+}
