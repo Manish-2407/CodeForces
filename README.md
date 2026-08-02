@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 215 | 26 |
+| 216 | 26 |
 
 ---
 
@@ -30,8 +30,8 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (75)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (64)
-- [math](#math) (96)
+- [implementation](#implementation) (65)
+- [math](#math) (97)
 - [number theory](#number-theory) (24)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (27)
@@ -413,6 +413,7 @@
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+| 2157B | [Expansion Plan 2](https://codeforces.com/contest/2157/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2157/B%20-%20Expansion%20Plan%202/solution.cpp) |
 | 2178B | [Impost or Sus](https://codeforces.com/contest/2178/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2178/B%20-%20Impost%20or%20Sus/solution.cpp) |
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
@@ -492,6 +493,7 @@
 | 1900B | [Laura and Operations](https://codeforces.com/contest/1900/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1900/B%20-%20Laura%20and%20Operations/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+| 2157B | [Expansion Plan 2](https://codeforces.com/contest/2157/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2157/B%20-%20Expansion%20Plan%202/solution.cpp) |
 | 2166B | [Tab Closing](https://codeforces.com/contest/2166/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2166/B%20-%20Tab%20Closing/solution.cpp) |
 | 2171B | [Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2171/B%20-%20Yuu%20Koito%20and%20Minimum%20Absolute%20Sum/solution.cpp) |
 | 2184A | [Social Experiment](https://codeforces.com/contest/2184/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Manish-2407/CodeForces/blob/HEAD/2184/A%20-%20Social%20Experiment/solution.cpp) |
