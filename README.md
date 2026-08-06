@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 221 | 26 |
+| 222 | 26 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [data structures](#data-structures) (11)
 - [dfs and similar](#dfs-and-similar) (5)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (17)
+- [dp](#dp) (18)
 - [dsu](#dsu) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (8)
@@ -30,7 +30,7 @@
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (75)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (66)
+- [implementation](#implementation) (67)
 - [math](#math) (99)
 - [number theory](#number-theory) (25)
 - [schedules](#schedules) (1)
@@ -218,6 +218,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.cpp) |
+| 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.cpp) |
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/455/A%20-%20Boredom/solution.cpp) |
 | 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 1475B | [New Year's Number](https://codeforces.com/contest/1475/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/1475/B%20-%20New%20Year's%20Number/solution.cpp) |
@@ -378,6 +379,7 @@
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 313A | [Ilya and Bank Account](https://codeforces.com/contest/313/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/313/A%20-%20Ilya%20and%20Bank%20Account/solution.cpp) |
+| 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.cpp) |
 | 339B | [Xenia and Ringroad](https://codeforces.com/contest/339/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/339/B%20-%20Xenia%20and%20Ringroad/solution.cpp) |
 | 379A | [New Year Candles](https://codeforces.com/contest/379/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/379/A%20-%20New%20Year%20Candles/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Manish-2407/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
